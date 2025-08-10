@@ -279,7 +279,7 @@ async function getItems() {
                 return;
             }
         }
-        makeAd(config.specificItems.sendingItems, config.specificItems.receivingItems, config.specificItems.tags, config,specificItems.offer_robux);
+        makeAd(config.specificItems.sendingItems, config.specificItems.receivingItems, config.specificItems.tags, config.specificItems.offer_robux);
     } else if (config.smartAlgo.enabled) {
         const modesEnabled = [config.smartAlgo.upgrade, config.smartAlgo.downgrade, config.smartAlgo.any].filter(Boolean).length;
         if (modesEnabled !== 1) {
