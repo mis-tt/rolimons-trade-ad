@@ -3,15 +3,16 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
-            "221181437",
-            "6548058",
-            "928908332",
-            "114706745345742"
+            "1191142249",
+            "19364658",
+            "20064349",
+            "4773569689"
         ],
-        "offer_robux": 5800,
+        "offer_robux": 1750,
         "receivingItems": [
         ],
         "tags": [
+            "demand",
             "upgrade",
             "downgrade"
         ],
