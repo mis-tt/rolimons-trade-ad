@@ -3,9 +3,10 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
+            "16477149823",
             "16477149823"
         ],
-        "offer_robux": 400,
+        "offer_robux": 500,
         "receivingItems": [
         ],
         "tags": [
