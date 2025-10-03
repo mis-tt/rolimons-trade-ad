@@ -14,7 +14,8 @@
         "tags": [
             "demand",
             "upgrade",
-            "downgrade"
+            "downgrade",
+            "projecteds"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     },
