@@ -3,19 +3,18 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
+            "330296924",
             "103238843491175",
             "19027209",
-            "38971471",
-            "78033496"
+            "38971471"
         ],
-        "offer_robux": 550,
+        "offer_robux": 800,
         "receivingItems": [
         ],
         "tags": [
             "demand",
             "upgrade",
-            "downgrade",
-            "projecteds"
+            "downgrade"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     },
